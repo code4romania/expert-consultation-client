@@ -4,7 +4,7 @@
 
 Webapp client for Legal Consultation, a project designed to ease the process of public consultation with experts in Romania.
 
-[See the project UX](https://www.figma.com/proto/7VLlmWKJOjS3YXkOFjMRi0/Legal-Consultation?node-id=0%3A1&scaling=min-zoom) and [the preview environment](https://expert-consultation-client.now.sh/home) with the work in progress.
+[See the project UX](https://www.figma.com/proto/7VLlmWKJOjS3YXkOFjMRi0/Legal-Consultation?node-id=0%3A1&scaling=min-zoom) and [the preview environment](https://expert-consultation-client.now.sh) with the work in progress.
 
 Whenever a group or institution proposes a new law, there is a time when they need to consult with expert communities. For example, legislation on urban planning, construction, or architecture generally reaches the Architects' Order in Romania for consultation. The consultation period is very short and most of the time, not all members of these expert groups have the necessary time and tools to make their contribution effective. The consultation process within the group is very ad-hoc, made through physical documents, social media, or excel files forwarded back and forth between all participants, and these groups sometimes have more than 4-5 thousand experts who should get information and come back in a few days.
 
