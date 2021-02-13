@@ -4,7 +4,7 @@
       class="fa fa-edit"></i></span>
     <strong>
       {{'document.view.section.type.article' | translate}}
-      {{article.identifier}}
+      {{article.identifier + (article.title ? ': ' + article.title : '')}}
     </strong>
     <p>{{article.content}}</p>
   </div>
